@@ -40,6 +40,7 @@ public class MyActivity extends Activity{
 				return false;
 			}
 		});
+		// new task
 	}
 
 	public void tapeFadeinAnimation(){
